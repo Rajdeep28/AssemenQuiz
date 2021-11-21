@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="str_next">Next</string>
+    <string name="menu_settings">Settings</string>
+</resources>
